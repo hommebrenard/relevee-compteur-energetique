@@ -1,0 +1,6 @@
+{
+  "name": "EnerTrack - Suivi & Relevé Énergétique",
+  "description": "Application de relevés énergétiques industriels et tertiaires avec tableau de bord intuitif pour le suivi mensuel (Électricité HC/HP/Pointe, Eau, Gazoil).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
